@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, my name is Alexander Hinojosa Granados, you can call me Lexx
 
 <!--
 **Alexander-1402/Alexander-1402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
